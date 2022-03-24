@@ -8,6 +8,6 @@
 |[Структура программы](https://github.com/netology-code/java-homeworks/tree/master/program-structure)|1|[Сумматор](https://github.com/kotamadeo/JavaBasis/tree/1.2.1.Adder)|
 |[Структура программы](https://github.com/netology-code/java-homeworks/tree/master/program-structure)|2|[Расчет площади круга и длины его окружности](https://github.com/kotamadeo/JavaBasis/tree/1.2.2.Area)|
 |[Циклы и условные операторы](https://github.com/netology-code/java-homeworks/blob/master/conditional-statements-cycles/README.md)|1|[Високосный год](https://github.com/kotamadeo/JavaBasis/tree/1.3.1.Leap)|
-|[Циклы и условные операторы](https://github.com/netology-code/java-homeworks/blob/master/conditional-statements-cycles/README.md)|2|[Високосный год](https://github.com/kotamadeo/JavaBasis/tree/1.3.2.LeapGuess)|
+|[Циклы и условные операторы](https://github.com/netology-code/java-homeworks/blob/master/conditional-statements-cycles/README.md)|2|[Угадываем високосный год](https://github.com/kotamadeo/JavaBasis/tree/1.3.2.LeapGuess)|
 
 
