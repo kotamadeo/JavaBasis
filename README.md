@@ -17,4 +17,6 @@
 |[Структура класса](https://github.com/netology-code/java-homeworks/tree/master/class-structure)|1 - 3|[Онлайн-читалка](https://github.com/kotamadeo/JavaBasis/tree/1.5.1.Reader)     |
 |[Одномерные массивы](https://github.com/netology-code/java-homeworks/tree/master/one-dimensional-array)|1|[Покупка товаров](https://github.com/kotamadeo/JavaBasis/tree/1.6.1.Cart)|
 |[Многомерные массивы](https://github.com/netology-code/java-homeworks/tree/master/multidimensional-array)|1|[Поворот матрицы на 90 градусов по часовой стрелке](https://github.com/kotamadeo/JavaBasis/tree/1.7.1.Matrix)|
-|[Многомерные массивы](https://github.com/netology-code/java-homeworks/tree/master/multidimensional-array)|1|[Дописываем крестики-нолики](https://github.com/kotamadeo/JavaBasis/tree/1.7.2.TicTacToe)|
+|[Многомерные массивы](https://github.com/netology-code/java-homeworks/tree/master/multidimensional-array)|2|[Дописываем крестики-нолики](https://github.com/kotamadeo/JavaBasis/tree/1.7.2.TicTacToe)|
+|[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism)|1|[Шутер](https://github.com/kotamadeo/JavaBasis/tree/1.8.1.Shooter)|
+|[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism)|2|[Задача от бухгалтеров](https://github.com/kotamadeo/JavaBasis/tree/1.8.2.TaxService)|
