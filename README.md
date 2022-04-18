@@ -27,4 +27,4 @@
 |[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism)|2|[Задача от бухгалтеров](https://github.com/kotamadeo/JavaBasis/tree/1.8.2.TaxService)|
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|1|[Библиотека](https://github.com/kotamadeo/JavaBasis/tree/1.9.1.Library)|
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|2|[Банковые счета](https://github.com/kotamadeo/JavaBasis/tree/1.9.2.BankAccount)|
-|[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|2|[Резюме инженеров](https://github.com/kotamadeo/JavaBasis/tree/1.9.3.Resumes)|
+|[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|3|[Резюме инженеров](https://github.com/kotamadeo/JavaBasis/tree/1.9.3.Resumes)|
