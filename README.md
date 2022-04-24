@@ -28,3 +28,6 @@
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|1|[Библиотека](https://github.com/kotamadeo/JavaBasis/tree/1.9.1.Library)|
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|2|[Банковые счета](https://github.com/kotamadeo/JavaBasis/tree/1.9.2.BankAccount)|
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|3|[Резюме инженеров](https://github.com/kotamadeo/JavaBasis/tree/1.9.3.Resumes)|
+|[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|1|[Проверка доступа к ресурсу](https://github.com/kotamadeo/JavaBasis/tree/2.1.1.Login)|
+|[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|2|[Проверка доступа к ресурсу](https://github.com/kotamadeo/JavaBasis/tree/2.1.2.Event)|
+|[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|2|[Проверка доступа к ресурсу](https://github.com/kotamadeo/JavaBasis/tree/2.1.3.Url)|
