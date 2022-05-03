@@ -3,7 +3,6 @@
 ## **Задачи**:
 
 ### **Блок 1. Основы Java:**
-
 | Название лекции | № задачи |                                       Название задачи и ссылка                                        |
 |:---------------:|:--------:|:-----------------------------------------------------------------------------------------------------:|
 |[Введение в программирование на Java](https://github.com/netology-code/java-homeworks/tree/master/introduction)|1|[Автор программы](https://github.com/kotamadeo/JavaBasis/tree/1.1.1.Author)|
@@ -20,7 +19,6 @@
 |[Многомерные массивы](https://github.com/netology-code/java-homeworks/tree/master/multidimensional-array)|2|[Дописываем крестики-нолики](https://github.com/kotamadeo/JavaBasis/tree/1.7.2.TicTacToe)|
 
 ### **Блок 2. ООП в Java:**
-
 | Название лекции | № задачи |                                       Название задачи и ссылка                                        |
 |:---------------:|:--------:|:-----------------------------------------------------------------------------------------------------:|
 |[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism)|1|[Шутер](https://github.com/kotamadeo/JavaBasis/tree/1.8.1.Shooter)|
@@ -29,5 +27,16 @@
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|2|[Банковые счета](https://github.com/kotamadeo/JavaBasis/tree/1.9.2.BankAccount)|
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|3|[Резюме инженеров](https://github.com/kotamadeo/JavaBasis/tree/1.9.3.Resumes)|
 |[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|1|[Проверка доступа к ресурсу](https://github.com/kotamadeo/JavaBasis/tree/2.1.1.Login)|
-|[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|2|[Проверка доступа к ресурсу](https://github.com/kotamadeo/JavaBasis/tree/2.1.2.Event)|
-|[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|2|[Проверка доступа к ресурсу](https://github.com/kotamadeo/JavaBasis/tree/2.1.3.Url)|
+|[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|2|[Валидация прочитанных событий](https://github.com/kotamadeo/JavaBasis/tree/2.1.2.Event)|
+|[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|3|[Проверка корректности url веб-сайта](https://github.com/kotamadeo/JavaBasis/tree/2.1.3.Url)|
+
+### **Блок 3. Java Collection Framework:**
+| Название лекции | № задачи |                                       Название задачи и ссылка                                        |
+|:---------------:|:--------:|:-----------------------------------------------------------------------------------------------------:|
+|[Коллекции. List](https://github.com/netology-code/java-homeworks/tree/master/list)|1|[Записная книга](https://github.com/kotamadeo/JavaBasis/tree/2.2.1.ToDoList)|
+|[Коллекции. Queue](https://github.com/netology-code/java-homeworks/tree/master/queue)|1|[Лифт](https://github.com/kotamadeo/JavaBasis/tree/2.3.1.Elevator)|
+|[Коллекции. Queue](https://github.com/netology-code/java-homeworks/tree/master/queue)|2|[Польская Нотация и Обратная Польская Нотация](https://github.com/kotamadeo/JavaBasis/tree/2.3.2.PolishNotation)|
+|[Коллекции. Hashmap и Hashset](https://github.com/netology-code/java-homeworks/tree/master/hash-collections)|1|[Телефонный справочник](https://github.com/kotamadeo/JavaBasis/tree/2.4.1.Phonebook)|
+|[Коллекции. Hashmap и Hashset](https://github.com/netology-code/java-homeworks/tree/master/hash-collections)|2|[Список студентов](https://github.com/kotamadeo/JavaBasis/tree/2.4.2.StudentsList)|
+|[Коллекции. TreeMap и TreeSet](https://github.com/netology-code/java-homeworks/tree/master/tree-collections)|1|[Пропущенные вызовы](https://github.com/kotamadeo/JavaBasis/tree/2.5.1.MissedCalls)|
+|[Коллекции. TreeMap и TreeSet](https://github.com/netology-code/java-homeworks/tree/master/tree-collections)|2|[Система подбора кандидатов](https://github.com/kotamadeo/JavaBasis/tree/2.5.2.HR)|
