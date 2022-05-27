@@ -15,8 +15,8 @@
 |[Примитивы](https://github.com/netology-code/java-homeworks/tree/master/primitive-types/1.4.1)|2|[Округление double](https://github.com/kotamadeo/Netology-JavaBasis-PrimitiveTypes-1.4.2.Round)|
 |[Структура класса](https://github.com/netology-code/java-homeworks/tree/master/class-structure)|1 - 3|[Онлайн-читалка](https://github.com/kotamadeo/Netology-JavaBasis-1.5.1.Reader)|
 |[Одномерные массивы](https://github.com/netology-code/java-homeworks/tree/master/one-dimensional-array)|1|[Покупка товаров](https://github.com/kotamadeo/Netology-JavaBasis-OneDimensionalArray-1.6.1.Cart)|
-|[Многомерные массивы](https://github.com/netology-code/java-homeworks/tree/master/multidimensional-array)|1|[Поворот матрицы на 90 градусов по часовой стрелке](https://github.com/kotamadeo/JavaBasis/tree/1.7.1.Matrix)|
-|[Многомерные массивы](https://github.com/netology-code/java-homeworks/tree/master/multidimensional-array)|2|[Дописываем крестики-нолики](https://github.com/kotamadeo/JavaBasis/tree/1.7.2.TicTacToe)|
+|[Многомерные массивы](https://github.com/netology-code/java-homeworks/tree/master/multidimensional-array/2.2.1)|1|[Поворот матрицы на 90 градусов по часовой стрелке](https://github.com/kotamadeo/Netology-JavaBasis-MultyDimensionalArray-1.7.1.Matrix)|
+|[Многомерные массивы](https://github.com/netology-code/java-homeworks/tree/master/multidimensional-array/2.2.2)|2|[Дописываем крестики-нолики](https://github.com/kotamadeo/Netology-JavaBasis-MultyDimensionalArray-1.7.2.TicTacToe)|
 
 ### **Блок 2. ООП в Java:**
 | Название лекции | № задачи |                                       Название задачи и ссылка                                        |
