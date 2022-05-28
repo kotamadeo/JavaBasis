@@ -21,8 +21,8 @@
 ### **Блок 2. ООП в Java:**
 | Название лекции | № задачи |                                       Название задачи и ссылка                                        |
 |:---------------:|:--------:|:-----------------------------------------------------------------------------------------------------:|
-|[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism)|1|[Шутер](https://github.com/kotamadeo/JavaBasis/tree/1.8.1.Shooter)|
-|[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism)|2|[Задача от бухгалтеров](https://github.com/kotamadeo/JavaBasis/tree/1.8.2.TaxService)|
+|[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism/3.2.1)|1|[Шутер](https://github.com/kotamadeo/Netology-JavaBasis-Polymorphism-2.1.1.Shooter)|
+|[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism/3.2.2)|2|[Задача от бухгалтеров](https://github.com/kotamadeo/Netology-JavaBasis-Polymorphism-2.1.2.TaxService)|
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|1|[Библиотека](https://github.com/kotamadeo/JavaBasis/tree/1.9.1.Library)|
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|2|[Банковые счета](https://github.com/kotamadeo/JavaBasis/tree/1.9.2.BankAccount)|
 |[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|3|[Резюме инженеров](https://github.com/kotamadeo/JavaBasis/tree/1.9.3.Resumes)|
