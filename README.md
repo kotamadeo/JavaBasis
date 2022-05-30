@@ -23,9 +23,9 @@
 |:---------------:|:--------:|:-----------------------------------------------------------------------------------------------------:|
 |[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism/3.2.1)|1|[Шутер](https://github.com/kotamadeo/Netology-JavaBasis-Polymorphism-2.1.1.Shooter)|
 |[Полиморфизм](https://github.com/netology-code/java-homeworks/tree/master/polymorphism/3.2.2)|2|[Задача от бухгалтеров](https://github.com/kotamadeo/Netology-JavaBasis-Polymorphism-2.1.2.TaxService)|
-|[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|1|[Библиотека](https://github.com/kotamadeo/JavaBasis/tree/1.9.1.Library)|
-|[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|2|[Банковые счета](https://github.com/kotamadeo/JavaBasis/tree/1.9.2.BankAccount)|
-|[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces)|3|[Резюме инженеров](https://github.com/kotamadeo/JavaBasis/tree/1.9.3.Resumes)|
+|[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces/3.3.1)|1|[Библиотека](https://github.com/kotamadeo/Netology-JavaBasis-AbstactionAndInterfaces-2.2.1.Library)|
+|[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/tree/master/abstractions-interfaces/3.3.2)|2|[Банковые счета](https://github.com/kotamadeo/Netology-JavaBasis-AbstactionAndInterfaces-2.2.2.BankAccount)|
+|[Абстракция и интерфейсы](https://github.com/netology-code/java-homeworks/commit/847c1f6ab19d71c1235682153d1b50b0688bd8e5)|3|[Резюме инженеров](https://github.com/kotamadeo/Netology-JavaBasis-AbstactionAndInterfaces-2.2.3.Resumes)|
 |[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|1|[Проверка доступа к ресурсу](https://github.com/kotamadeo/JavaBasis/tree/2.1.1.Login)|
 |[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|2|[Валидация прочитанных событий](https://github.com/kotamadeo/JavaBasis/tree/2.1.2.Event)|
 |[Исключения](https://github.com/netology-code/java-homeworks/tree/master/exceptions)|3|[Проверка корректности url веб-сайта](https://github.com/kotamadeo/JavaBasis/tree/2.1.3.Url)|
