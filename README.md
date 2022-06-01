@@ -33,7 +33,7 @@
 ### **Блок 3. Java Collection Framework:**
 | Название лекции | № задачи |                                       Название задачи и ссылка                                        |
 |:---------------:|:--------:|:-----------------------------------------------------------------------------------------------------:|
-|[Коллекции. List](https://github.com/netology-code/java-homeworks/tree/master/list)|1|[Записная книга](https://github.com/kotamadeo/JavaBasis/tree/2.2.1.ToDoList)|
+|[Коллекции. List](https://github.com/netology-code/java-homeworks/tree/master/list/4.1.1)|1|[Записная книга](https://github.com/kotamadeo/Netology-JavaBasis-CollectionFramework-ArrayList-3.1.1.ToDoList)|
 |[Коллекции. Queue](https://github.com/netology-code/java-homeworks/tree/master/queue)|1|[Лифт](https://github.com/kotamadeo/JavaBasis/tree/2.3.1.Elevator)|
 |[Коллекции. Queue](https://github.com/netology-code/java-homeworks/tree/master/queue)|2|[Польская Нотация и Обратная Польская Нотация](https://github.com/kotamadeo/JavaBasis/tree/2.3.2.PolishNotation)|
 |[Коллекции. Hashmap и Hashset](https://github.com/netology-code/java-homeworks/tree/master/hash-collections)|1|[Телефонный справочник](https://github.com/kotamadeo/JavaBasis/tree/2.4.1.Phonebook)|
