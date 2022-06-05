@@ -38,5 +38,9 @@
 |[Коллекции. Queue](https://github.com/netology-code/java-homeworks/commit/d989aba31b324e41189601c567641b9943f23c5f)|2|[Польская Нотация и Обратная Польская Нотация](https://github.com/kotamadeo/Netology-JavaBasis-CollectionFramework-Queue-3.2.2.PolishNotation)|
 |[Коллекции. HashMap и HashSet](https://github.com/netology-code/java-homeworks/tree/master/hash-collections/4.3.1)|1|[Телефонный справочник](https://github.com/kotamadeo/Netology-JavaBasis-CollectionFramework-HashMap-3.3.1.Phonebook)|
 |[Коллекции. HashMap и HashSet](https://github.com/netology-code/java-homeworks/tree/master/hash-collections/4.3.2)|2|[Список студентов](https://github.com/kotamadeo/Netology-JavaBasis-CollectionFramework-HashSet-3.3.2.StudentsList)|
-|[Коллекции. TreeMap и TreeSet](https://github.com/netology-code/java-homeworks/tree/master/tree-collections)|1|[Пропущенные вызовы](https://github.com/kotamadeo/JavaBasis/tree/2.5.1.MissedCalls)|
-|[Коллекции. TreeMap и TreeSet](https://github.com/netology-code/java-homeworks/tree/master/tree-collections)|2|[Система подбора кандидатов](https://github.com/kotamadeo/JavaBasis/tree/2.5.2.HR)|
+|[Коллекции. TreeMap и TreeSet](https://github.com/netology-code/java-homeworks/tree/master/tree-collections/4.5.1)|1|[Пропущенные вызовы](https://github.com/kotamadeo/Netology-JavaBasis-CollectionFramework-TreeMap-3.4.1.MissedCall)|
+|[Коллекции. TreeMap и TreeSet](https://github.com/netology-code/java-homeworks/tree/master/tree-collections/4.5.2)|2|[Система подбора кандидатов](https://github.com/kotamadeo/Netology-JavaBasis-CollectionFramework-TreeSet-3.4.2.HR)|
+
+### **Блок 4. Бонус. Задачи с вебинаров и квизы:**
+| Название лекции | № задачи |                                       Название задачи и ссылка                                        |
+|:---------------:|:--------:|:-----------------------------------------------------------------------------------------------------:|
